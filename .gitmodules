@@ -1,0 +1,12 @@
+[submodule "Pericles-Core-Service"]
+	path = Pericles-Core-Service
+	url = https://github.com/Jouda-Hidri/Pericles-Core-Service.git
+[submodule "Pericles-Eureka-Server"]
+	path = Pericles-Eureka-Server
+	url = https://github.com/Jouda-Hidri/Pericles-Eureka-Server.git
+[submodule "Pericles-Gateway-Server"]
+	path = Pericles-Gateway-Server
+	url = https://github.com/Jouda-Hidri/Pericles-Gateway-Server.git
+[submodule "Pericles-UI"]
+	path = Pericles-UI
+	url = https://github.com/Jouda-Hidri/Pericles-UI.git
