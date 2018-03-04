@@ -10,3 +10,6 @@
 [submodule "Pericles-UI"]
 	path = Pericles-UI
 	url = https://github.com/Jouda-Hidri/Pericles-UI.git
+[submodule "Pericles-User-Service"]
+	path = Pericles-User-Service
+	url = https://github.com/Jouda-Hidri/Pericles-User-Service.git
